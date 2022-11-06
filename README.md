@@ -34,7 +34,7 @@ This folder has the original paper which we replicate in this project.
 
 This folder has all the presentation slides which we have created throughout the semester. (Project Proposal / Project Update / Project Final Presentation) 
 
-Report 
+[Report](https://github.com/AbrrenC/COMP7860_ProjectRepo/tree/main/Report) 
 
 This folder has the final report for this project. 
 
