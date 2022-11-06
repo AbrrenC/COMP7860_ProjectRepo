@@ -4,15 +4,15 @@ This repository is used to save all the working files and results for the COMP78
 
 Please check the following on how each folder is structured: 
 
-1. Code 
+1. [Code](https://github.com/AbrrenC/COMP7860_ProjectRepo/tree/main/Code) 
 
-   Notebook 1: This notebook is used to extract the token transaction data from the Kaggle dataset. This notebook needs to be run in Kaggle. (A Google Cloud project is needed before running the Bigquery) 
+   [Notebook 1](https://github.com/AbrrenC/COMP7860_ProjectRepo/blob/main/Code/Notebook1_transaction_data_extraction.ipynb): This notebook is used to extract the token transaction data from the Kaggle dataset. This notebook needs to be run in Kaggle. (A Google Cloud project is needed before running the Bigquery) 
    
-   Notebook 2: This notebook is used to calculate all network features and test the significance of each observation. 
+   [Notebook 2](https://github.com/AbrrenC/COMP7860_ProjectRepo/blob/main/Code/Notebook2_core_periphery_analysis.ipynb): This notebook is used to calculate all network features and test the significance of each observation. 
    
-   Notebook 3: This notebook is used to merge the network feature data from notebook 1 with the economic variables and TVL data. 
+   [Notebook 3](https://github.com/AbrrenC/COMP7860_ProjectRepo/blob/main/Code/Notebook3_datasets_merge.ipynb): This notebook is used to merge the network feature data from notebook 1 with the economic variables and TVL data. 
    
-   Notebook 4: This notebook is used to perform the regression analysis between the level of decentralization and market return/volatility.
+   [Notebook 4](https://github.com/AbrrenC/COMP7860_ProjectRepo/blob/main/Code/Notebook4_network_analysis.ipynb): This notebook is used to perform the regression analysis between the level of decentralization and market return/volatility.
    
 2. New Datasets
 
